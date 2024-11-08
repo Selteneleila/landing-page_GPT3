@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Selteneleila/landing-page_GPT3.git/static/css/main.a17620f6.css",
+    "main.js": "/Selteneleila/landing-page_GPT3.git/static/js/main.f8f7d785.js",
+    "static/media/Header Illustration.png": "/Selteneleila/landing-page_GPT3.git/static/media/Header Illustration.1fcab8ec94a945c2ea11.png",
+    "static/media/Feature Image.png": "/Selteneleila/landing-page_GPT3.git/static/media/Feature Image.e685de02939616d109da.png",
+    "static/media/Rectangle 22-4.png": "/Selteneleila/landing-page_GPT3.git/static/media/Rectangle 22-4.b8c594107c0678715afa.png",
+    "static/media/Rectangle 22-1.png": "/Selteneleila/landing-page_GPT3.git/static/media/Rectangle 22-1.09c400fc78c96e4ff788.png",
+    "static/media/Rectangle 22-2.png": "/Selteneleila/landing-page_GPT3.git/static/media/Rectangle 22-2.beb41199f58f7cf27240.png",
+    "static/media/Rectangle 22-3.png": "/Selteneleila/landing-page_GPT3.git/static/media/Rectangle 22-3.72041c450fbe88e59333.png",
+    "static/media/Rectangle 22.png": "/Selteneleila/landing-page_GPT3.git/static/media/Rectangle 22.4575fb47b66fd76940b0.png",
+    "static/media/Group 81.png": "/Selteneleila/landing-page_GPT3.git/static/media/Group 81.2cfdf724680e3ce7e868.png",
+    "static/media/dropbox.png": "/Selteneleila/landing-page_GPT3.git/static/media/dropbox.74056b966ce8bd5829b6.png",
+    "static/media/atlassian.png": "/Selteneleila/landing-page_GPT3.git/static/media/atlassian.b300970d4dad69eef066.png",
+    "static/media/GPT-3.svg": "/Selteneleila/landing-page_GPT3.git/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/Selteneleila/landing-page_GPT3.git/index.html",
+    "main.a17620f6.css.map": "/Selteneleila/landing-page_GPT3.git/static/css/main.a17620f6.css.map",
+    "main.f8f7d785.js.map": "/Selteneleila/landing-page_GPT3.git/static/js/main.f8f7d785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a17620f6.css",
+    "static/js/main.f8f7d785.js"
+  ]
+}
