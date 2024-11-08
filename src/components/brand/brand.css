@@ -1,0 +1,22 @@
+.brand-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.brand-container img {
+  flex: 1;
+  max-width: 150px;
+  min-width: 120px;
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 550px) {
+  .brand-container img {
+    width: 100px;
+  }
+}
